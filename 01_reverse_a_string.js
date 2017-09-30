@@ -1,3 +1,5 @@
+// Reverse the provided string.
+
 function reverseString(str) {
   // host reversed string  
   var newString = "";
