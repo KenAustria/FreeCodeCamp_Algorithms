@@ -1,3 +1,5 @@
+// Remove all falsy values from an array.
+
 function bouncer(arr) {
   // create host array
   var holderArray = [];
