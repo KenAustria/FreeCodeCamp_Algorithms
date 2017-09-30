@@ -1,3 +1,5 @@
+// Return the factorial of the provided integer.
+
 function factorialize(num) {
   // set factorial value
   var factorial = 1;
