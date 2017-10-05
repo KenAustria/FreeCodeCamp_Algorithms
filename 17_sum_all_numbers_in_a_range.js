@@ -1,3 +1,9 @@
+/*
+We'll pass you an array of two numbers. 
+Return the sum of those two numbers and all numbers between them.
+The lowest number will not always come first.
+*/
+
 function sumAll(arr) {
   // find max number in array
   var maxNum = Math.max.apply(null, arr);
